@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jinithakn79
 - 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning React native. 
+- 🌱 I’m currently working and improving skills on iOS and React native. 
 - 📫 How to reach me jinithakn77@gmail.com
 
 <!---
